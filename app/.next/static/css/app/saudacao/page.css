@@ -1,0 +1,21 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[7].use[3]!./app/saudacao/saudacao.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************/
+.saudacao_configuracao__TsKWR{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:beige;
+    background:linear-gradient(to left, orange, purple);
+    height:729px;
+}
+
+.saudacao_hora__zXF53 {
+    font-size: 90px;
+}
+
+.saudacao_textoSaudacao__Q2UmA {
+    font-size: 25px;
+    font-weight:bold;
+}

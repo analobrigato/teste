@@ -1,0 +1,18 @@
+.configuracao{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:beige;
+    background:linear-gradient(to left, orange, purple);
+    height:729px;
+}
+
+.hora {
+    font-size: 90px;
+}
+
+.textoSaudacao {
+    font-size: 25px;
+    font-weight:bold;
+}

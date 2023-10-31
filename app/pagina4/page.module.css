@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 60%;
+}
+
+.boxfoot{
+    margin-top: 8%;
+}
+
+.footer{
+   text-align: center;
+   
+}
+
+.boxtexts{
+    margin-top: 13%;
+}
+
+.boxnome{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+}
+
+#text{
+    text-align: center;
+    color: red;
+}
+
+#textprops{
+    color:blue;
+    text-align: center;
+}
